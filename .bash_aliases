@@ -1,4 +1,4 @@
-alias lsa='ls -lha'
+alias ls='ls -lhA'
 alias ..'=cd ../'
 alias cls='clear'
 
