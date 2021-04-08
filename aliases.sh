@@ -1,6 +1,9 @@
 alias ls='ls -lhA'
 alias ..'=cd ../'
 alias cls='clear'
+alias fm='nautilus .'
+alias files='nautilus .'
+alias explorer='nautilus .'
 
 gi() 
 { 
